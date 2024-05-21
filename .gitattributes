@@ -1,3 +1,2 @@
-*.m linguist-language=MATLAB
-*.slx linguist-language=MATLAB
+*.c linguist-language=matlab
 
